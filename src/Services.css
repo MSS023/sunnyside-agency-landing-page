@@ -1,0 +1,52 @@
+/*heading Libre Baskerville bold
+  normal test Libre Baskerville regular*/
+
+.service-heading {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.container {
+    margin: 0px;
+    padding: 0px;
+    max-inline-size: fit-content;
+}
+
+.col {
+    padding: 0px;
+}
+
+.row {
+    margin: 0px;
+}
+
+.ServiceImage {
+    width: inherit;
+    height: inherit;
+}
+
+.text {
+    padding: 200px 8%;
+}
+
+.standOut {
+    background-image: url("Images/image-graphic-design.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 350px;
+    padding-bottom: 10%;
+}
+
+.photo {
+    background-image: url("Images/image-photography.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 350px;
+    padding-bottom: 10%;
+}
+
+center {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 15px;
+}

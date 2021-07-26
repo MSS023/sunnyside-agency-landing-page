@@ -1,0 +1,5 @@
+.pics {
+	width: inherit;
+    height: inherit;
+	max-width: -webkit-fill-available;
+}

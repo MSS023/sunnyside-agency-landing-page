@@ -1,0 +1,33 @@
+.header {
+	color: white;
+}
+
+.heading {
+	padding: 5%;
+}
+
+.Arrow {
+	padding: 0% 10% 10%;
+}
+
+.nav-link {
+	color: currentcolor;
+}
+
+.navbar-toggler {
+	background-image: url("Images/icon-hamburger.svg");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 991px)
+{
+	.show {
+		background-color: white;
+		color: black;
+		padding: 40px;
+	}
+	.btn {
+		background-color: yellow;
+	}
+}
